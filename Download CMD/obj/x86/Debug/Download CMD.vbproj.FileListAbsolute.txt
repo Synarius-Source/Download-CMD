@@ -1,0 +1,16 @@
+C:\Users\Administrateur\documents\visual studio 2010\Projects\Download CMD\Download CMD\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\Administrateur\documents\visual studio 2010\Projects\Download CMD\Download CMD\obj\x86\Debug\Download CMD.vbproj.GenerateResource.Cache
+C:\Users\Administrateur\Documents\Visual Studio 2010\Projects\Download CMD\Download CMD\bin\Debug\Download_web.exe.config
+C:\Users\Administrateur\Documents\Visual Studio 2010\Projects\Download CMD\Download CMD\bin\Debug\Download_web.exe.manifest
+C:\Users\Administrateur\Documents\Visual Studio 2010\Projects\Download CMD\Download CMD\bin\Debug\Download_web.application
+C:\Users\Administrateur\Documents\Visual Studio 2010\Projects\Download CMD\Download CMD\bin\Debug\Download_web.exe
+C:\Users\Administrateur\Documents\Visual Studio 2010\Projects\Download CMD\Download CMD\bin\Debug\Download_web.pdb
+C:\Users\Administrateur\Documents\Visual Studio 2010\Projects\Download CMD\Download CMD\bin\Debug\Download_web.xml
+C:\Users\Administrateur\Documents\Visual Studio 2010\Projects\Download CMD\Download CMD\obj\x86\Debug\ConsoleApplication1.Form1.resources
+C:\Users\Administrateur\Documents\Visual Studio 2010\Projects\Download CMD\Download CMD\obj\x86\Debug\Download_web.TrustInfo.xml
+C:\Users\Administrateur\Documents\Visual Studio 2010\Projects\Download CMD\Download CMD\obj\x86\Debug\Download_web.exe.manifest
+C:\Users\Administrateur\Documents\Visual Studio 2010\Projects\Download CMD\Download CMD\obj\x86\Debug\Download_web.application
+C:\Users\Administrateur\Documents\Visual Studio 2010\Projects\Download CMD\Download CMD\obj\x86\Debug\Download_web.exe
+C:\Users\Administrateur\Documents\Visual Studio 2010\Projects\Download CMD\Download CMD\obj\x86\Debug\Download_web.xml
+C:\Users\Administrateur\Documents\Visual Studio 2010\Projects\Download CMD\Download CMD\obj\x86\Debug\Download_web.pdb
+C:\Users\Administrateur\Documents\Visual Studio 2010\Projects\Download CMD\Download CMD\obj\x86\Debug\ConsoleApplication1.Form2.resources
